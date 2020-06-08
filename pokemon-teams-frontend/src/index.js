@@ -17,7 +17,6 @@
     * remove pokemon from the dom optimistically? pessimistically? 
 
 */
-
 document.addEventListener('DOMContentLoaded', function(e){
     const BASE_URL = "http://localhost:3000"
     const TRAINERS_URL = `${BASE_URL}/trainers`
